@@ -38,7 +38,7 @@ public class Medico extends Pessoa {
         }
     }
     
-    //o método esta como string sendo que o atributo é int
+    //o método está como string sendo que o atributo é int
     public int getCrm(){
         return this.crm;
     }

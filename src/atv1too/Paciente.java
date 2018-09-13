@@ -41,9 +41,9 @@ public class Paciente extends Pessoa {
         return this.senhaPaciente;
     }
     
-    //métrodo set para senhaPacientre
+    //método set para senhaPacientre
     
-    //O método no diagrama esta como setSenhaFuncionario
+    //O método no diagrama está como setSenhaFuncionario
     public void setSenhaPaciente(String senhaPaciente){
         if(this.senhaPaciente !=""){
             this.senhaPaciente = senhaPaciente;
